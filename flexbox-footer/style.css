@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+footer {
+    display: flex;
+    background-color: #2e2532;
+    margin: -8px;
+}
+
+footer > div {
+    color: #fbfbfb;
+    margin: 10px;
+    width: 33%;
+    background-color: #9e4770;
+    text-align: center;
+}
+
+a {
+    color: #fbfbfb;
+}
